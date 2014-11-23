@@ -6,7 +6,9 @@ Plasma Dispersion Relation Solver , Kinetic Version
 Supplementary material for the MATLAB numerical routines used in PDRK paper.
 
 Author: H. S. Xie & Y. Xiao, huashengxie@gmail.com, IFTS-ZJU
+
 Title: PDRK: A General Kinetic Dispersion Relation Solver for Magnetized Plasma
+
 Journal: XXX (or see arxiv)
 
 Files:
