@@ -9,7 +9,7 @@ Author: H. S. Xie & Y. Xiao, huashengxie@gmail.com, IFTS-ZJU
 
 Title: PDRK: A General Kinetic Dispersion Relation Solver for Magnetized Plasma
 
-Journal: XXX (or see arxiv)
+Journal: XXX (or see arxiv: http://arxiv.org/abs/1410.2678)
 
 Files:
 
