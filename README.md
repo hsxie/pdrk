@@ -1,24 +1,24 @@
 pdrk
+
 ====
-% Ref:
-%  [Xie2016] H. S. Xie & Y. Xiao, PDRK: A General Kinetic Dispersion
-%    Relation Solver for Magnetized Plasma, Plasma Science and Technology,
-%    Vol.18, No.2, p97 (2016). (Also 2014arXiv, note: have several typos)
-%
-% Documents/codes/Erratum: http://hsxie.me/codes/pdrk/
-%
-% 18-09-28 12:42 We find that omega_cs=-qB/m in Miyamoto2004, not the
-% standard omega_cs=qB/m. This sign difference affect several terms. This
-% version we have fixed the bugs of the sign of omega_cs.
-% 18-10-01 09:43 based on new derivations, fixed a bug in b33 term, where a
-% wcs^2 is missed.
-% 16:01 Benchmark with Gary1993 Fig.7.4 and several other cases ok.
-%
-% Ref (typos/bugs fixed):
-%  H. S. Xie, Detailed Derivations of PDRK-EM3D Equations, 2018-10-03 (
-%  10 pages).
-% 
-% 18-10-03 13:14 This version should be bugs free now.
+
+Ref:
+
+ [Xie2016] H. S. Xie & Y. Xiao, PDRK: A General Kinetic Dispersion Relation Solver for Magnetized Plasma, Plasma Science and Technology, Vol.18, No.2, p97 (2016). (Also 2014arXiv, note: have several typos)
+
+Documents/codes/Erratum: http://hsxie.me/codes/pdrk/
+
+18-09-28 12:42 We find that omega_cs=-qB/m in Miyamoto2004, not the standard omega_cs=qB/m. This sign difference affect several terms. This version we have fixed the bugs of the sign of omega_cs.
+
+18-10-01 09:43 based on new derivations, fixed a bug in b33 term, where a wcs^2 is missed.
+
+16:01 Benchmark with Gary1993 Fig.7.4 and several other cases ok.
+
+Ref (typos/bugs fixed):
+
+ H. S. Xie, Detailed Derivations of PDRK-EM3D Equations, 2018-10-03 (10 pages).
+
+18-10-03 13:14 This version should be bugs free now.
 
 Next version will be more user-friendly and support loss-cone drift bi-Maxwellian distribution.
 
