@@ -1,0 +1,14 @@
+Benchmark PDRK with fluid dispersion relation solver PDRF at cold plasma limit.
+They agree well for the five branches cold waves. theta=60.
+
+Slight differences comes when:
+1. The ion cyclotron branch has large damping rate and thus real frequency is also different to fluid one at large k.
+2. The sound wave branch, which is probably due to the difference between the cs in fluid and kinetic models. However, if pressure = 0, this branch should not exist.
+
+To do:
+1. Check the cS branch;
+2. Compare the polarizations;
+3. Update pdrf solver. 
+
+
+2018-10-19 22:44
