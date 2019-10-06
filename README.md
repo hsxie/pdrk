@@ -2,13 +2,15 @@ PDRK and PDRF (http://hsxie.me/codes/pdrf/) have been renamed and updated to a n
 
 Ref: H. S. Xie, BO: A unified tool for plasma waves and instabilities analysis, Comp. Phys. Comm., 244, 343 (2019).
 
-![Image text](https://github.com/hsxie/pdrk/blob/master/bo_poster.pdf)
+![Image text](https://github.com/hsxie/pdrk/blob/master/bo_poster_191006.jpg)
+
+Welcome to share this poster: https://github.com/hsxie/pdrk/blob/master/bo_poster.pdf!
 
 Hua-sheng XIE, huashengxie[AT]gmail.com, xiehuasheng[AT]enn.cn
 
 CCF-ENN, Langfang, China
 
-2018-10-27 17:31
+2019-10-06 08:45
 
 -------------------------------------------------------------------------
 
