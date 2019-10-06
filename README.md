@@ -1,3 +1,17 @@
+PDRK and PDRF (http://hsxie.me/codes/pdrf/) have been renamed and updated to a new code BO (‘波’, i.e., 'wave' in Chinese), which is a state-of-art plasma wave and instability analysis tool and is being used by more and more researchers. The new version is not included in this github page yet and can be found at http://code.ennresearch.com/bo/, or http://dx.doi.org/10.17632/cvbrftzfy5.1.
+
+Ref: H. S. Xie, BO: A unified tool for plasma waves and instabilities analysis, Comp. Phys. Comm., 244, 343 (2019).
+
+![Image text](https://github.com/hsxie/pdrk/blob/master/bo_poster.pdf)
+
+Hua-sheng XIE, huashengxie[AT]gmail.com, xiehuasheng[AT]enn.cn
+
+CCF-ENN, Langfang, China
+
+2018-10-27 17:31
+
+-------------------------------------------------------------------------
+
 PDRK is a general and powerful Kinetic Dispersion Relation solver for 
 magnetized Plasma, which is the first kinetic dispersion relation solver 
 that can give all the important solutions at one time without requiring
